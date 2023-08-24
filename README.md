@@ -7,7 +7,7 @@ authentication scaffolding. Customize the registration from.
 
 ## Run Project
 
--   git clone **(https://github.com/radwafarghly/-mini-calendly-backend.git)**
+-   git clone **(https://github.com/radwafarghly/Task-Larave.git)**
 -   composer install
     -create .env file
 -   copy .env example file in .env and set database name and password
