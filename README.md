@@ -9,7 +9,7 @@ authentication scaffolding. Customize the registration from.
 
 -   git clone **(https://github.com/radwafarghly/Task-Laravel.git)**
 -   composer install
-    -create .env file
+-   create .env file
 -   copy .env example file in .env and set database name and password
 -   run command php artisan key:generate
 -   php artisan config:cache
